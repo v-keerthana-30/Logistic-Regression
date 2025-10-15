@@ -14,3 +14,6 @@ The workflow includes:
 5.Interpretation: Analyze the model coefficients to understand the significance of features in predicting the target variable.
 
 6.Deployment with Streamlit: Create a Streamlit app to deploy the trained model. Users can input data to get predictions locally or online via Streamlit Community Cloud.
+
+Streamlit app;
+Network URL: http://10.121.0.130:8501
